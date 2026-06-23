@@ -27,4 +27,5 @@ Features
 
 Clone the repository:
 
-git clone https://github.com/Hp2806/Image-Processing.git
+```bash
+git clone https://github.com/Hp2806/coin-counter.git
