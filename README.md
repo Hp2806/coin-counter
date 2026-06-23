@@ -9,7 +9,6 @@ Features
 - Interactive file picker for selecting coin images
 - Automatic thresholding using Otsu's method
 - Noise reduction using morphology operations
-- Watershed algorithm for separating touching coins
 - Contour detection and labeling of each coin
 - Displays total coin count on the output image
 
